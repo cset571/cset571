@@ -23,6 +23,7 @@
 ---
 
 📫 **Connect with me:**  
-[LinkedIn]([https://linkedin.com/in/charlotte-setter](https://www.linkedin.com/in/charlotte-setter-7270612b9/)) • [Email](mailto:charlottesetter9@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/charlotte-setter-7270612b9/)
+ • [Email](mailto:charlottesetter9@gmail.com)
 
 ✨ _Exploring systems thinking, elegant design, and real-world problem solving._
