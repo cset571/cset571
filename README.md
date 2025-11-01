@@ -1,13 +1,13 @@
-## Hi, I'm Charlotte Setter
+# 👋 Hi, I’m Charlotte Setter
 
-<!--
 🎓 Software Engineering student @ University of Auckland  
 💡 Passionate about AI, systems design, and software–hardware integration  
 🏗️ Building projects that blend creativity, precision, and performance — from AI-driven games to IoT control systems.
+
 ---
 
 ### 🧠 Technical Focus
-- **Languages:** Java, C, Python 
+- **Languages:** Java, C, Python, MATLAB  
 - **Tools:** GitHub, JavaFX, Linux terminal, Visual Studio  
 - **Concepts:** Concurrency, Design Patterns, Embedded Systems, Networking, AI  
 
@@ -21,8 +21,8 @@
 | [OS Scheduler Simulator](#) | Simulation of CPU scheduling algorithms | C, Threads |
 
 ---
+
 📫 **Connect with me:**  
 [LinkedIn]([https://linkedin.com/in/charlotte-setter](https://www.linkedin.com/in/charlotte-setter-7270612b9/)) • [Email](mailto:charlottesetter9@gmail.com)
 
 ✨ _Exploring systems thinking, elegant design, and real-world problem solving._
--->
