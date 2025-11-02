@@ -7,7 +7,7 @@ Passionate about systems design, software–hardware integration, and building p
 
 ### Technical Focus
 - **Programming Languages:** Java, C, Python, MATLAB, VHDL, SQL, JavaScript, HTML/CSS, PHP, Perl
-- **Tools & Frameworks:** Git/GitHub, JavaFX, Linux, Visual Studio, Teltonika RUT956, FPGA toolchains
+- **Tools & Frameworks:** Git/GitHub, JavaFX, Spring Boot, Node.js, Angular, TensorFlow, PyTorch, Linux, Visual Studio, IntelliJ IDEA, Eclipse, Teltonika RUT956, FPGA toolchains
 - **Concepts & Domains:** Concurrency, Design Patterns, Embedded Systems, Networking, AI/ML, IoT, Digital Design, Algorithm Design, System Integration
 
 ---
@@ -20,7 +20,9 @@ Featured projects include:
 - **FPGA Flappy Bird:** Custom Flappy Bird game implemented in VHDL on an FPGA.
 - **A\* Scheduling Algorithm:** Algorithm to find the most optimal schedule of tasks on a variable number of processors.
 - **Control-X:** Mobile website and hardware interface enabling variable rate irrigation.
-
+  
+### Other Projects
+- Self-driven experiments exploring web development frameworks and operating system concepts, including small apps and drivers to deepen practical understanding.
 
 ---
 
