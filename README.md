@@ -1,29 +1,29 @@
-# 👋 Hi, I’m Charlotte Setter
+# Hello, I’m Charlotte Setter
 
-🎓 Software Engineering student @ University of Auckland  
-💡 Passionate about AI, systems design, and software–hardware integration  
-🏗️ Building projects that blend creativity, precision, and performance — from AI-driven games to IoT control systems.
-
----
-
-### 🧠 Technical Focus
-- **Languages:** Java, C, Python, MATLAB  
-- **Tools:** GitHub, JavaFX, Linux terminal, Visual Studio  
-- **Concepts:** Concurrency, Design Patterns, Embedded Systems, Networking, AI  
+Software Engineering student @ University of Auckland  
+Passionate about systems design, software–hardware integration, and building projects that combine creativity, precision, and performance.
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| [Guess Who? AI Game](#) | JavaFX-based interactive mystery game with concurrency & AI dialogue | Java, JavaFX |
-| [Smart Irrigation Control](#) | IoT app for remote irrigator control using RUT956 modules | Java, Networking |
-| [OS Scheduler Simulator](#) | Simulation of CPU scheduling algorithms | C, Threads |
+### Technical Focus
+- **Programming Languages:** Java, C, Python, MATLAB, VHDL, SQL, JavaScript, HTML/CSS, PHP, Perl
+- **Tools & Frameworks:** Git/GitHub, JavaFX, Linux, Visual Studio, Teltonika RUT956, FPGA toolchains
+- **Concepts & Domains:** Concurrency, Design Patterns, Embedded Systems, Networking, AI/ML, IoT, Digital Design, Algorithm Design, System Integration
 
 ---
 
-📫 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/charlotte-setter-7270612b9/)
- • [Email](mailto:charlottesetter9@gmail.com)
+### Project Highlights
+Selected projects demonstrating my skills in software development, AI, embedded systems, and algorithm design are available in full at my [GitHub portfolio](https://github.com/cset571/charlotte-profile).
 
-✨ _Exploring systems thinking, elegant design, and real-world problem solving._
+Featured projects include:
+- **JetBot Traffic Sign AI:** AI-controlled robot navigating a track with custom traffic sign recognition.
+- **FPGA Flappy Bird:** Custom Flappy Bird game implemented in VHDL on an FPGA.
+- **A\* Scheduling Algorithm:** Algorithm to find the most optimal schedule of tasks on a variable number of processors.
+- **Control-X:** Mobile website and hardware interface enabling variable rate irrigation.
+
+
+---
+
+**Connect with me:**  
+- [LinkedIn](https://www.linkedin.com/in/charlotte-setter-7270612b9/)
+- [Email](mailto:charlottesetter9@gmail.com)
